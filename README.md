@@ -117,10 +117,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Layan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=layanjarrar&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Layan's Github Stats" src="https://github-readme-stats.vercel.app/api?usernameLayanJarrar1&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=layanjarrar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="layanjarrar" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LayanJarrar1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="LayanJarrar1" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -130,7 +130,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/layanjarrar"><img alt="Layan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=layanjarrar&custom_title=Layan%20Jarrar's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/LayanJarrar1"><img alt="Layan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LayanJarrar1&custom_title=Layan%20Jarrar's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -168,7 +168,7 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:layan.diab.jarrar11@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/layanjarrar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/LayanJarrar1"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/layan-jarrar"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="tel:+970595400595"><img src="https://img.icons8.com/bubbles/50/000000/phone.png" alt="Phone"/></a>
 </p>
