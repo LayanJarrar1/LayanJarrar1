@@ -174,5 +174,6 @@
 </p>
 
 <hr/>
-
+![GitHub Snake Light](https://raw.githubusercontent.com/LayanJarrar1/LayanJarrar1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/LayanJarrar1/LayanJarrar1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 * Last Edited: March 2025
