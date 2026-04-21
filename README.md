@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Layan%20Jarrar&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Computer%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI%20Systems&descAlignY=75&descSize=18&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Layan%20Jarrar&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Computer%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI%20Systems&descAlignY=75&descSize=18&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e0c3fc,50:8ec5fc,100:c2e9fb&height=200&section=header&text=Layan%20Jarrar&fontSize=70&fontColor=1a1a2e&fontAlignY=55&desc=Computer%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI%20Systems&descAlignY=75&descSize=18&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Layan%20Jarrar&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Computer%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI%20Systems&descAlignY=75&descSize=18&animation=fadeIn"/>
+</picture>
 
 </div>
 
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=React.js+%26+TypeScript+Developer;RAG+%26+LLM+Integration+Specialist;Building+Scalable+AI+Solutions;Turning+Figma+Designs+into+Pixel-Perfect+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=React.js+%26+TypeScript+Developer;RAG+%26+LLM+Integration+Specialist;Building+Scalable+AI+Solutions;Turning+Figma+Designs+into+Pixel-Perfect+UI" alt="Typing SVG" />
 </a>
 
 </div>
@@ -186,9 +190,17 @@ Robot with IR sensors, LIDAR, and motors — navigating 8×8 mazes autonomously.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LayanJarrar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LayanJarrar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LayanJarrar1&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=6D28D9&icon_color=6D28D9&text_color=1a1a2e"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LayanJarrar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</picture>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayanJarrar1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LayanJarrar1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LayanJarrar1&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=6D28D9&text_color=1a1a2e"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayanJarrar1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</picture>
 
 </div>
 
@@ -198,9 +210,14 @@ Robot with IR sensors, LIDAR, and motors — navigating 8×8 mazes autonomously.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
+
 ---
 
 ## 🎓 Education
@@ -218,10 +235,14 @@ Robot with IR sensors, LIDAR, and motors — navigating 8×8 mazes autonomously.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&fontColor=ffffff&animation=fadeIn"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,50:8ec5fc,100:c2e9fb&height=100&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn"/>
+</picture>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=LayanJarrar1&label=Profile+Views&color=A78BFA&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LayanJarrar1&label=Profile+Views&color=7C3AED&style=flat-square" alt="profile views" />
 </p>
 
 _✨ "Building at the intersection of beautiful UI and intelligent systems."_
