@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Layan%20Jarrar&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Computer%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI%20Systems&descAlignY=75&descSize=18&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e0c3fc,50:8ec5fc,100:c2e9fb&height=200&section=header&text=Layan%20Jarrar&fontSize=70&fontColor=1a1a2e&fontAlignY=55&desc=Computer%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI%20Systems&descAlignY=75&descSize=18&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Layan%20Jarrar&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Computer%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI%20Systems&descAlignY=75&descSize=18&animation=fadeIn"/>
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Layan+Jarrar+%F0%9F%87%B5%F0%9F%87%B8;Computer+Engineer+%7C+AI+Systems;Frontend+Developer+%7C+React.js" alt="Title" />
 
 </div>
 
