@@ -198,11 +198,9 @@ Robot with IR sensors, LIDAR, and motors — navigating 8×8 mazes autonomously.
 
 <div align="center">
 
-![GitHub Snake Light](https://raw.githubusercontent.com/LayanJarrar1/LayanJarrar1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/LayanJarrar1/LayanJarrar1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
 ---
 
 ## 🎓 Education
