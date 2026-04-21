@@ -241,6 +241,14 @@ Robot with IR sensors, LIDAR, and motors — navigating 8×8 mazes autonomously.
   <img src="https://komarev.com/ghpvc/?username=LayanJarrar1&label=Profile+Views&color=7C3AED&style=flat-square" alt="profile views" />
 </p>
 
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:layan.diab.jarrar11@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/LayanJarrar1"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/layan-jarrar"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="tel:+970595400595"><img src="https://img.icons8.com/bubbles/50/000000/phone.png" alt="Phone"/></a>
+</p>
+
 _✨ "Building at the intersection of beautiful UI and intelligent systems."_
 
 </div>
