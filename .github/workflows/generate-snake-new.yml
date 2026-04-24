@@ -1,4 +1,4 @@
-name: Generate Snake Animation new
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -13,11 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    continue-on-error: true
 
     steps:
       - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
+        continue-on-error: true
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -25,6 +27,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
